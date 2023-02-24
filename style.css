@@ -1,0 +1,46 @@
+.home{
+ padding-right: 25px;
+margin-right: 10px;
+display: flex;
+justify-content: right;
+margin-top: 20px;
+color: 0;
+
+}
+.page{
+    margin-left: 15px;
+}
+.sing {
+    margin-right: 20px;
+    margin-left: 80px;
+    justify-content: end;
+    text-decoration-color: blue;
+    border-bottom: 100cap;
+    border-color: rgb(8, 8, 221);
+    background-color: blue;
+     font: size 100px; ;
+}
+.img{
+    padding-top: 200px;
+    justify-content: center;
+
+    display: flex;
+
+}
+.input{
+    display: flex;
+    justify-content: center;
+    padding-top: 2px;
+    margin-top: 3px;
+
+}
+.bgcolor{
+    background-attachment: fixed;
+    background-color: rgb(17, 116, 21);
+}
+.type{
+    width: 500px;
+    height: 35px;
+    padding: 0%;
+
+}
